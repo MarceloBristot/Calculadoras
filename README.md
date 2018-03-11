@@ -1,2 +1,2 @@
-# Calculadoras
-Calculadoras criadas para a aula de Tópicos Especiais do Curso de Ciências da Computação
+# Tópicos Especiais I
+Atividades realizadas para a matéria de Tópicos Especiais do Curso de Ciência da Computação
